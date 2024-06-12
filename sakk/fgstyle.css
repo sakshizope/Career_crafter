@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    
+}
+
+p{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
+
+body{
+    margin: 40px 60px;
+    text-align: justify;
+    color: #4c4b4b;
+    font-size: 16px;
+}
+
+.head{
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 3rem;
+    color: #030f47;
+}
+
+.img{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.sub-head{
+    font-size: 2rem;
+    color: #25326c;
+}
+
+.sub{
+    padding: 20px 0;
+    font-size: 1.5rem;
+    color: #5d6cad;
+}
+
+.other{
+    padding: 10px 0;
+    font-size: 1.5rem;
+}

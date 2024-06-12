@@ -1,0 +1,27 @@
+Orange Color : #fba70b;
+
+Black Color : #191a20;
+
+Pink Color : #f1556a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Box Background (With photo)
+
+background: linear-gradient(
+145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+
